@@ -1,6 +1,4 @@
-// filepath: c:\xampp\htdocs\Tulipas_MIDETERM\modals\index.php
 <?php
-start_session();
 require_once __DIR__ . '/auth.php';
 require_once dirname(__DIR__) . '/classses/task.php';
 
